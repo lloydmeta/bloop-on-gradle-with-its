@@ -56,7 +56,7 @@ No test suites were run.
 ===============================================
 ```
 
-Copying and pasting the `test` section from the `project.tests` section of `.bloop/bloop-on-gradle-with-its-test.json` into `.bloop/bloop-on-gradle-with-its-it.json` makes this work
+Copying and pasting the `project.tests` section of `.bloop/bloop-on-gradle-with-its-test.json` into `.bloop/bloop-on-gradle-with-its-it.json` makes this work
 
 ```shell
 ❯ bloop test bloop-on-gradle-with-its-it
